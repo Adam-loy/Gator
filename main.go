@@ -3,7 +3,8 @@ package main
 import (
   "fmt"
   "log"
-  "github.con/Adam-loy/Gator/internal/config"
+  
+  "github.com/Adam-loy/Gator/internal/config"
 )
 
 func main() {
